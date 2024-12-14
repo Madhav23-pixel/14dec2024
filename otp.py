@@ -1,2 +1,1 @@
-a="kumar"
-print("my name is ",a)
+print("ujwal")
